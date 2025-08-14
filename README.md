@@ -4,6 +4,13 @@ A simple yet visually appealing **Pomodoro Timer** built using **Python** and **
 
 ---
 
+
+## 📷 Demo
+
+![Pomodoro](assets/pomodoro.gif)
+
+---
+
 ## 🧠 What is the Pomodoro Technique?
 
 The **Pomodoro Technique** is a time management method developed by *Francesco Cirillo*. It uses a timer to break down work into intervals, traditionally:
